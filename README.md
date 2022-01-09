@@ -1,5 +1,5 @@
-# Garden-Monitor
-An Arduino based garden monitor project.
+# Garden Monitor
+An Arduino nano(328P) based garden monitor project.
 
 See https://www.instructables.com/Garden-Monitor/ for circuit diagrams and build.
 
